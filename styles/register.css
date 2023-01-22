@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(to right, rgb(80, 80, 238), rgb(189, 10, 189));
+}
+header{
+    color: black;
+    font-weight: bold;   
+    text-align: center; 
+}
+.nav-link{
+    color: black;
+    font-weight: bold;    
+}
+.userInfo{
+    text-align: center;
+    font-weight: bold;
+    
+}

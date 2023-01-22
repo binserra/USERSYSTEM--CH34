@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(to right, rgb(80, 80, 238), rgb(189, 10, 189));
+}
+.nav-link{
+    color: black;
+    font-weight: bold;    
+}
+.login{
+    text-align: center;
+    font-weight: bold;
+}
